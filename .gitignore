@@ -1,0 +1,26 @@
+# Project: OOPD_PROJECT
+# Submitted by: KRISHAN KANT KUMAR
+# Roll Number: MT26169
+# Group Number: 119
+
+# Compiled executable
+/acaderp
+
+# Build output directories
+/build/
+
+# Object and library files
+*.o
+*.a
+*.so
+*.dylib
+
+# Debug and editor-generated files
+core
+core.*
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/
+.idea/
