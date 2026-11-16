@@ -1,4 +1,7 @@
 #!/bin/bash
+# Project: OOPD_PROJECT
+# Submitted by: KRISHAN KANT KUMAR
+# Roll Number: MT26169
 
 cd "$(dirname "$0")" || exit 1
 
