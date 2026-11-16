@@ -4,6 +4,7 @@
 # Roll Number: MT26169
 
 cd "$(dirname "$0")" || exit 1
+trap 'rm -f acaderp' EXIT
 
 echo "======================================"
 echo "       OOPD_PROJECT Test Suite"
